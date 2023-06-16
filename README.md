@@ -47,6 +47,7 @@
     - [VSCode](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q).
     - [XBOX](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z).
     - [DISCORD](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN).
+    - [GIMP](https://apps.microsoft.com/store/detail/XPDM27W10192Q0)
     - Subsystem:
       - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6).
       - Android.
