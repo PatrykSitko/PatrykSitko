@@ -52,4 +52,4 @@ Java I.O.T @ Intec Brussel
   
 ## ALPHABETS SUPPORTED:
 
-  - Latin
+  - Latin (extended)
