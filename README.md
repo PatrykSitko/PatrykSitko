@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="res\image\RuneScape\MrNoDrop.png" />
+</p>
 
+  <span>[G.E.](https://secure.runescape.com/m=itemdb_oldschool/)</span>
 ---
 
 ## setup – Phanteks ENTHOO 719 (ITX + EATX), FULL-TOWER:
@@ -13,11 +15,28 @@
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
     - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
     - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
-    - RAM – 16GB DDR4, 3200Mhz.
+    - DRAM – 16GB DDR4, 3200Mhz.
+    - RAM:
+      - NVMe 2.0 – Sabrent, 512GB.
+      - NVMe 2.0 – empty.
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
     - PSU – Phanteks revolt x 1200W.
+- Router (BT + WI-FI):
+     - Samsung Galaxy Z FLIP 4 – 256GB, WI-FI 6 + 5G.
+     - Samsung Galaxy Watch 5 PRO – 16GB, WI-FI 6 + 5G.
+- Sound:
+    - Samsung Galaxy Buds 2 Pro.
+    - JBL – GO 3.
+- HID:
+  - Lenovo – ThinkPad TrackPoint Keyboard II.
+  - Logitech – MX Ergo.
+  - PlayStation – DualSense Controller.
+  - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
+- OS:
+  - Windows – Client [PRO].
+  - Android.   
 
 ---
 
@@ -49,7 +68,7 @@
 
 HBO5 Java E.E. @ Intec Brussel
 
-Web Development - Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel
+Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel
 
 Java I.O.T @ Intec Brussel
 
@@ -64,9 +83,9 @@ Java I.O.T @ Intec Brussel
 
 ## LANGUAGES SUPPORTED:
 
-- EN(BENELUX & Co.)
-- FR(BELUX)
-- NL(BENE)
+- EN – BENELUX & Co.
+- FR – BELUX
+- NL – BENE
 - PL
 
 ## ALPHABETS SUPPORTED:
