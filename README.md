@@ -45,6 +45,7 @@
     - MySQL.
   - Windows – Client [PRO]
     - [VSCode](https://github.com/PatrykSitko/vscode).
+    - [XBOX](https://www.bing.com/ck/a?!&&p=d982ecf0450f0fdaJmltdHM9MTY4Njg3MzYwMCZpZ3VpZD0zYmI3ZDJlMi1kNzcwLTZhYjctMGYyZC1jMWNhZDYzODZiZDYmaW5zaWQ9NTQ0NQ&ptn=3&hsh=3&fclid=3bb7d2e2-d770-6ab7-0f2d-c1cad6386bd6&psq=xbox+app&u=a1bXMtd2luZG93cy1zdG9yZTovL3BkcC8_UHJvZHVjdElkPTlNVjBCNUhaVks5WiZyZWZlcnJlcj1iaW5nd2Vic2VhcmNoJm9jaWQ9YmluZ3dlYnNlYXJjaA&ntb=1).
     - Subsystem:
       - Debian.
       - Android.
