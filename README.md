@@ -40,13 +40,14 @@
   - PlayStation – DualSense Controller.
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - OS:
-  - Windows - Server [STANDARD]
-    - Docker.
-    - MySQL.
-  - Windows – Client [PRO]
+  - Windows – [Server](res\image\ISO\WINDOWS\SERVER.iso) [STANDARD]
+    - [Docker](https://www.docker.com/products/docker-desktop).
+    - [MySQL](https://dev.mysql.com/downloads/windows/installer).
+  - Windows – [Client](res\image\ISO\WINDOWS\CLIENT.iso) [PRO]
     - [VSCode](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q).
     - [XBOX](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z).
     - [DISCORD](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN).
+    - [RUFUS](https://www.microsoft.com/store/productId/9PC3H3V7Q9CH).
     - [GIMP](https://apps.microsoft.com/store/detail/XPDM27W10192Q0).
     - ...
     - Subsystem:
