@@ -20,6 +20,7 @@
     - RAM:
       - NVMe 2.0 – Sabrent, 512GB.
       - NVMe 2.0 – empty.
+      - Sata – empty.
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
