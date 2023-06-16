@@ -51,7 +51,7 @@
     - ...
     - Subsystem:
       - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6).
-      - Android.
+      - Android (insiders).
   - Android.
 
 ---
