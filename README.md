@@ -1,4 +1,4 @@
-﻿## <p align="center"> Patryk Sitko aka "MrNoDrop" (OsRs)<img src="res\image\logo.png" style="width:6vmin; margin-left:.5vmin;margin-bottom:-1.5vmin;"/></p>
+﻿## <p align="center"><img src="res\image\helmet.png" style="width:6vmin; margin-right:0.7vmin;margin-bottom:-4vmin;"/>Patryk Sitko aka "MrNoDrop" (OsRs)<img src="res\image\logo.png" style="width:6vmin; margin-left:.5vmin;margin-bottom:-1.5vmin;"/></p>
 
 ---
 
