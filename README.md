@@ -4,6 +4,23 @@
 
 <p align="center">
   <img src="res\image\RuneScape\MrNoDrop.png" />
+
+---
+
+## setup – Phanteks ENTHOO 719 (ITX + ATX), FULL-TOWER:
+
+- BOARD:
+  - (slot: ITX) ASUS Strix x570-I [PCIe4.0]:
+    - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
+    - GPU – NVIDIA, inno3D GTX 1630 COMPACT.
+    - RAM – 16GB.
+    - PSU – Phanteks revolt x 1200W.
+  - (slot: ATX) empty
+    - (recommendé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
+
+---
+
+  <img src="res\image\setup.jpg">
 </p>
 
 ---
