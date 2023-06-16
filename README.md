@@ -27,6 +27,11 @@
 - Sound:
     - Samsung Galaxy Buds 2 Pro.
     - JBL – GO 3.
+- HID:
+  - Lenovo – ThinkPad TrackPoint Keyboard II.
+  - Logitech – MX Ergo.
+  - PlayStation – DualSense Controller.
+  - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 
 ---
 
