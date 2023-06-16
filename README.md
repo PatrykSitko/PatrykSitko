@@ -10,7 +10,7 @@
 ## setup – Phanteks ENTHOO 719 (ITX + ATX), FULL-TOWER:
 
 - BOARD:
-  - (slot: ITX) ASUS Strix x570-I [PCIe4.0]:
+  - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
     - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
     - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
     - RAM – 16GB DDR4, 3200Mhz.
