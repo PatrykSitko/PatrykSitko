@@ -44,11 +44,11 @@
     - Docker.
     - MySQL.
   - Windows – Client [PRO]
-    - DISCORD.
-    - [VSCode](https://github.com/PatrykSitko/vscode).
-    - [XBOX](https://www.bing.com/ck/a?!&&p=d982ecf0450f0fdaJmltdHM9MTY4Njg3MzYwMCZpZ3VpZD0zYmI3ZDJlMi1kNzcwLTZhYjctMGYyZC1jMWNhZDYzODZiZDYmaW5zaWQ9NTQ0NQ&ptn=3&hsh=3&fclid=3bb7d2e2-d770-6ab7-0f2d-c1cad6386bd6&psq=xbox+app&u=a1bXMtd2luZG93cy1zdG9yZTovL3BkcC8_UHJvZHVjdElkPTlNVjBCNUhaVks5WiZyZWZlcnJlcj1iaW5nd2Vic2VhcmNoJm9jaWQ9YmluZ3dlYnNlYXJjaA&ntb=1).
+    - [DISCORD](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN).
+    - [VSCode](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q).
+    - [XBOX](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z).
     - Subsystem:
-      - Debian.
+      - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6).
       - Android.
   - Android.
 
