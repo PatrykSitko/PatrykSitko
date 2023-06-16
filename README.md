@@ -40,10 +40,10 @@
   - PlayStation – DualSense Controller.
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - OS:
-  - Windows – [Server](res\image\ISO\WINDOWS\SERVER.iso) [STANDARD]
+  - Windows – [Server](res/image/ISO/WINDOWS/SERVER.iso) [STANDARD]
     - [Docker](https://www.docker.com/products/docker-desktop).
     - [MySQL](https://dev.mysql.com/downloads/windows/installer).
-  - Windows – [Client](res\image\ISO\WINDOWS\CLIENT.iso) [PRO]
+  - Windows – [Client](res/image/ISO/WINDOWS/CLIENT.iso) [PRO]
     - [VSCode](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q).
     - [XBOX](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z).
     - [DISCORD](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN).
@@ -51,7 +51,7 @@
     - [GIMP](https://apps.microsoft.com/store/detail/XPDM27W10192Q0).
     - ...
     - Subsystem:
-      - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6).
+      - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6) – [[<u>GUI APP SUPPORT</u>](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps#install-support-for-linux-gui-apps)].
       - Android (insiders).
   - Android.
 
