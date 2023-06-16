@@ -64,9 +64,9 @@ Java I.O.T @ Intec Brussel
 
 ## LANGUAGES SUPPORTED:
 
-- EN(BENELUX & Co.)
-- FR(BELUX)
-- NL(BENE)
+- EN – BENELUX & Co.
+- FR – BELUX
+- NL – BENE
 - PL
 
 ## ALPHABETS SUPPORTED:
