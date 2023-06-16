@@ -41,10 +41,10 @@
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - OS:
   - Windows - Server [STANDARD]
-    - Docker
-    - MySQL
+    - Docker.
+    - MySQL.
   - Windows – Client [PRO]
-    - [VSCode](https://github.com/PatrykSitko/vscode) 
+    - [VSCode](https://github.com/PatrykSitko/vscode).
     - Subsystem:
       - Debian.
       - Android.
