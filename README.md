@@ -20,7 +20,7 @@
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
      - Samsung Galaxy Z FLIP 4 – 256GB, WI-FI + 5G.
-     - Samsung Galaxy Watch 5 – PRO 16GB, WI-FI + 5G.
+     - Samsung Galaxy Watch 5 PRO – 16GB, WI-FI + 5G.
 - Sound:
     - Samsung Galaxy Buds 2 Pro.
     - JBL – GO 3.
