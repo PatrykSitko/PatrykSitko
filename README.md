@@ -16,7 +16,7 @@
     - RAM – 16GB DDR4, 3200Mhz.
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
-    - (recommendé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
+    - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
     - PSU – Phanteks revolt x 1200W.
 
 ---
