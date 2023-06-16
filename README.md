@@ -8,6 +8,8 @@
 
 ## <span><img src="res\image\RuneScape\coin-pouch.png" style="width:6vmin;"/>[G.E.](https://secure.runescape.com/m=itemdb_oldschool/)</span>
 
+---
+
 ## setup – Phanteks ENTHOO 719 (ITX + EATX), FULL-TOWER:
 
 - BOARD:
