@@ -40,6 +40,9 @@
   - PlayStation – DualSense Controller.
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - OS:
+  - Windows - Server [STANDARD]
+    - Docker
+    - MySQL
   - Windows – Client [PRO].
     - Subsystem:
       - Debian
