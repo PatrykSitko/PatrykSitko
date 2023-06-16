@@ -1,4 +1,4 @@
-﻿## <p align="center" style="Margin-left:-30vmin; "><img align="left" src="res\image\helmet.png" style="width:6vmin; Margin-left:30vmin; margin-right:0.7vmin;margin-bottom:-2.8vmin;"/>Patryk Sitko aka "MrNoDrop" @[[RuneScape](https://oldschool.runescape.com)]<img src="res\image\logo.png" style="width:6vmin; margin-left:.5vmin;margin-bottom:-1.8vmin;"/></p>
+﻿## <p align="center"  style="Margin-left:-30vmin; white-space:nowrap;"><img align="left" src="res\image\helmet.png" style="width:6vmin; Margin-left:30vmin; margin-right:0.7vmin;margin-bottom:-2.8vmin;"/>Patryk Sitko aka "MrNoDrop" @[[RuneScape](https://oldschool.runescape.com)]<img src="res\image\logo.png" style="width:6vmin; margin-left:.5vmin;margin-bottom:-1.8vmin;"/></p>
 
 ---
 
