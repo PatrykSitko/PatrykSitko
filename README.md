@@ -14,7 +14,7 @@
 - [HALLE]1ᵀˢᵒ - algemeen bewerking & technisch tekenen, isometrisch.
 - [BXL] 2ᵀˢᵒ - Economie & Organisatie – Handel @ ReginaPacis ((0.6÷4) =+ x)
 - [BXL] 2ᵀˢᵒ - inleiding – mechanica, electriciteit en electronica ((3.4÷4) =+ x)
-- (2ᵀˢᵒ = x)
+  - (2ᵀˢᵒ = x)
 
 ### 2ᵈᵉ° SOᴺᴸ
 
