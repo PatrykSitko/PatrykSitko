@@ -7,7 +7,7 @@
 
 ---
 
-## setup – Phanteks ENTHOO 719 (ITX + ATX), FULL-TOWER:
+## setup – Phanteks ENTHOO 719 (ITX + EATX), FULL-TOWER:
 
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
