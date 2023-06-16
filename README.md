@@ -43,11 +43,11 @@
   - Windows - Server [STANDARD]
     - Docker
     - MySQL
-  - Windows – Client [PRO].
+  - Windows – Client [PRO]
     - [VSCode](https://github.com/PatrykSitko/vscode) 
     - Subsystem:
-      - Debian
-      - Android
+      - Debian.
+      - Android.
   - Android.
 
 ---
