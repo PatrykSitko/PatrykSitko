@@ -43,7 +43,7 @@
   - Windows – [Server](https://www.microsoft.com/en-us/evalcenter) [STANDARD]
     - [Docker](https://www.docker.com/products/docker-desktop).
     - [MySQL](https://dev.mysql.com/downloads/windows/installer).
-  - Windows – [Client](https://www.microsoft.com/en-us/software-download/windows11) [PRO]
+  - Windows – [Client](https://www.microsoft.com/en-us/software-download) [PRO]
     - [VSCode](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q).
     - [XBOX](https://www.microsoft.com/store/productId/9MV0B5HZVK9Z).
     - [DISCORD](https://apps.microsoft.com/store/detail/discord/XPDC2RH70K22MN).
