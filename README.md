@@ -16,7 +16,7 @@
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
     - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
     - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
-    - DRAM – 16GB DDR4, 3200Mhz.
+    - DRAM – (2×8) 16GB DDR4, 3200Mhz.
     - RAM:
       - NVMe 2.0:
         - Sabrent, 512GB.
