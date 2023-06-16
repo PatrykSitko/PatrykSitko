@@ -13,7 +13,9 @@
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
     - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
     - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
-    - RAM – 16GB DDR4, 3200Mhz.
+    - DRAM – 16GB DDR4, 3200Mhz.
+    - RAM:
+      - Sabrent – 512GB. 
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
