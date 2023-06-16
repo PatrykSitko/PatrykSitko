@@ -42,7 +42,7 @@
 - OS:
   - Windows – Client [PRO].
     - Subsystem:
-      - Ubuntu LTS
+      - Debian
       - Android
   - Android.
 
