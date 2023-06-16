@@ -33,7 +33,7 @@
   - PlayStation – DualSense Controller.
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - OS:
-  - Windows – Client.
+  - Windows – Client [PRO].
   - Android.   
 
 ---
