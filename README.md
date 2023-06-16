@@ -12,7 +12,7 @@
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0]:
     - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
-    - GPU – NVIDIA, inno3D GTX 1630 COMPACT.
+    - GPU – NVIDIA, inno3D GTX 1630 4GB COMPACT.
     - RAM – 16GB.
     - PSU – Phanteks revolt x 1200W.
   - (slot: ATX) empty
