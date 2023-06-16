@@ -15,8 +15,9 @@
     - GPU – NVIDIA, inno3D GTX 1630 4GB COMPACT.
     - RAM – 16GB.
     - PSU – Phanteks revolt x 1200W.
-  - (slot: ATX) empty
+  - (slot: ATX) empty:
     - (recommendé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
+    - PSU – Phanteks revolt x 1200W.
 
 ---
 
