@@ -18,7 +18,7 @@
   - (slot: EATX) empty:
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
     - PSU – Phanteks revolt x 1200W.
-- Router:
+- Router (BT + WIFI):
      - Samsung Galaxy Z FLIP 4 – 256GB WIFI + 5G.
      - Samsung Galaxy Watch 5 – PRO 16GB WIFI + 5G.
 - Sound:
