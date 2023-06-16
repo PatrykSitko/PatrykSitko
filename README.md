@@ -18,8 +18,9 @@
     - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
     - DRAM – 16GB DDR4, 3200Mhz.
     - RAM:
-      - NVMe 2.0 – Sabrent, 512GB.
-      - NVMe 2.0 – empty.
+      - NVMe 2.0:
+        - Sabrent, 512GB.
+        - empty.
       - Sata:
         - empty.
         - empty.
