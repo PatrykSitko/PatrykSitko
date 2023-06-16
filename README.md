@@ -49,7 +49,7 @@
 
 HBO5 Java E.E. @ Intec Brussel
 
-Web Development - Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel
+Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel
 
 Java I.O.T @ Intec Brussel
 
