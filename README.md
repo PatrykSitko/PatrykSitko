@@ -44,6 +44,7 @@
     - Docker
     - MySQL
   - Windows – Client [PRO].
+    - [VSCode](https://github.com/PatrykSitko/vscode) 
     - Subsystem:
       - Debian
       - Android
