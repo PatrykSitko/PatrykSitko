@@ -1,4 +1,4 @@
-﻿## <p align="center"> Patryk Sitko aka "MrNoDrop" (OsRs)</p>
+﻿## <p align="center"> Patryk Sitko aka "MrNoDrop" (OsRs)<img src="res\image\logo.png" style="width:6vmin; margin-left:.5vmin;margin-bottom:-1.5vmin;"/></p>
 
 ---
 
@@ -9,6 +9,7 @@
 ---
 
 # Don Bosco Technisch Instituut
+
 ### 1ˢᵗᵉ° SOᴺᴸ
 
 - [HALLE]1ᵀˢᵒ - algemeen bewerking & technisch tekenen, isometrisch.
@@ -42,14 +43,14 @@ Java I.O.T @ Intec Brussel
 
     - PL
     - BE
-    
+
 ## LANGUAGES SUPPORTED:
 
-  - EN(BENELUX & Co.)
-  - FR(BELUX)
-  - NL(BENE)
-  - PL
-  
+- EN(BENELUX & Co.)
+- FR(BELUX)
+- NL(BENE)
+- PL
+
 ## ALPHABETS SUPPORTED:
 
-  - Latin (extended)
+- Latin (extended)
