@@ -40,7 +40,7 @@
   - PlayStation – DualSense Controller.
   - Nintendo – Pokken DX Tournament Controller (White & Black & Yellow), Arcade.
 - Monitors:
-  - [Samsung M8 32"](https://www.samsung.com/us/computing/monitors/smart-monitors/32-m8-4k-smart-monitor-and-streaming-tv-white-ls32bm801unxgo/) – future.
+  - [Samsung M8 32"](https://www.samsung.com/us/computing/monitors/smart-monitors/32-m8-4k-smart-monitor-and-streaming-tv-white-ls32bm801unxgo/) – future (ecco when consumer mode activated).
 - OS [Microsoft](https://github.com/microsoft):
   - Windows – [Server](https://www.microsoft.com/en-us/evalcenter) [STANDARD]
     - [Docker](https://www.docker.com/products/docker-desktop).
