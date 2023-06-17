@@ -124,6 +124,7 @@ Licensed to:
   - <img src="res\image\fender-bender.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/> CAR <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
   - <img src="res\image\motorbike.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/> BIKE <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
   - <img src="res\image\bicykle.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/> CYCLE <img src="res\image\checked.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
+  - <img src="res\image\boat.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/> BOAT <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
 
 <br/>
 
