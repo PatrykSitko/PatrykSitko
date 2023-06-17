@@ -114,3 +114,5 @@ Java I.O.T @ Intec Brussel
 ## ALPHABETS SUPPORTED:
 
 - Latin (extended)
+
+Licensed to drive: #Nope!
