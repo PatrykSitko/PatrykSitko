@@ -26,8 +26,10 @@
         - empty.
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
+    - CPU – [Intel Xeon W-Series](https://ark.intel.com/content/www/us/en/ark/products/series/125035/intel-xeon-w-processor.html) (future).
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
-    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA).
+    - DRAM – [(8×512) 4TB DDR5](https://news.samsung.com/global/samsung-electronics-introduces-industrys-first-512gb-cxl-memory-module), 4800Mhz (future). 
+    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future).
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
   - Samsung Galaxy Z FLIP 4 – 256GB, WI-FI 6 + 5G.
