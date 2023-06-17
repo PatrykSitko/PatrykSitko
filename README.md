@@ -117,7 +117,7 @@ Java I.O.T @ Intec Brussel
 
 ---
 
-Licensed to:
+## Licensed to:
 
 - Drive<img src="res\image\test-drive.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/>:
 
