@@ -27,7 +27,7 @@
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
-    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA)
+    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA).
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
   - Samsung Galaxy Z FLIP 4 – 256GB, WI-FI 6 + 5G.
