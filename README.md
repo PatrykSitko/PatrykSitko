@@ -28,7 +28,7 @@
   - (slot: EATX) empty:
     - CPU – [Intel Xeon W-Series](https://ark.intel.com/content/www/us/en/ark/products/series/125035/intel-xeon-w-processor.html) (future).
     - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
-    - DRAM – [(8×512) 4TB DDR5](https://news.samsung.com/global/samsung-electronics-introduces-industrys-first-512gb-cxl-memory-module), 4800Mhz (future). 
+    - DRAM – [(8×512) 4TB DDR5](https://news.samsung.com/global/samsung-electronics-introduces-industrys-first-512gb-cxl-memory-module), 4800Mhz (future).
     - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future).
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
@@ -115,4 +115,17 @@ Java I.O.T @ Intec Brussel
 
 - Latin (extended)
 
-Licensed to drive: #Nope!
+---
+
+Licensed to:
+
+- Drive<img src="res\image\test-drive.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/>:
+
+  - <img src="res\image\fender-bender.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>car <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
+  - <img src="res\image\motorbike.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/> Bike <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
+  - <img src="res\image\bicykle.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/> Bicycle <img src="res\image\checked.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
+
+<br/>
+
+- Fly<img src="res\image\steering.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/>:
+  - <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
