@@ -98,7 +98,7 @@ Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending so
 future:
 
 Homelab, I have invested about €1k into electronical components ranging from:
- - components (capacitor, resistor, led, ...)
+ - components (capacitor, resistor, diode, ...)
  - modules (fingerprint scanner, nfc, bt, ...)
  -  ic's
  -  microcontroller boards
