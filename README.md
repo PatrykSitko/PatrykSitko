@@ -95,6 +95,10 @@ Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel (J
 
 Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending some nights at the lab, finished early.)
 
+future:
+
+Homelab, I have invested about 1k into electronical components and microcontroller boards and am in the progress of (re) setting up.
+
 ---
 
 # Born (22-03-1996) and raised @ Sint-Jans-Molenbeek, Brussels.
