@@ -68,7 +68,7 @@
 
 ---
 
-# Don Bosco Technisch Instituut
+# Don Bosco Technisch Instituut (2009 - 2015)
 
 ### 1ˢᵗᵉ° SOᴺᴸ
 
@@ -87,13 +87,13 @@
 
 ---
 
-3D Game Environment Artist @ Syntra Limburg – Campus Hasselt
+3D Game Environment Artist @ Syntra Limburg – Campus Hasselt (2015-2016)
 
-HBO5 Java E.E. @ Intec Brussel
+HBO5 Java E.E. @ Intec Brussel (2016-2018)
 
-Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel
+Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel (2018-2019)
 
-Java I.O.T @ Intec Brussel
+Java I.O.T @ Intec Brussel (2020-2021)
 
 ---
 
