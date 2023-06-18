@@ -99,7 +99,7 @@ future:
 
 Homelab, I have invested about €1k into electronical components ranging from:
  - components
- - modules
+ - modules (fingerprint scanner, nfc, bt, ...)
  -  ic's
  -  microcontroller boards
 
