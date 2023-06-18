@@ -93,7 +93,7 @@ HBO5 Java E.E. @ Intec Brussel (JAN/10/2016-AUG/1/2018)
 
 Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel (JAN/10/2018-AUG/1/2019)
 
-Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending some nights at the lab, finished early.)
+Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending some nights at the lab, finished early. It was a course designed for non-prior knowledge.)
 
 ---
 
