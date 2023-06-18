@@ -95,7 +95,7 @@ Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel (J
 
 Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending some nights at the lab, finished early.)
 
-future:
+2022 – future:
 
 Homelab, I have invested about €1k into electronical components ranging from:
  - components (capacitor, resistor, diode, dc motor, ...)
