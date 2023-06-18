@@ -101,7 +101,11 @@ Homelab, I have invested about €1k into electronical components ranging from:
  - components (capacitor, resistor, diode, dc motor, ...)
  - modules (fingerprint scanner, nfc, bt, ...)
  -  ic's
- -  microcontroller boards
+ -  microcontroller boards:
+   - ESP-32
+   - arduino
+   - STM-32
+   - RASPBERRY PI 
 
 and am in the progress of (re) setting up.
 
