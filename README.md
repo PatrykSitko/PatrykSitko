@@ -70,9 +70,13 @@
 
 ## Basis Onderwijs
 
-1ᴮᴼ – Vier Winden Sint-Jans-Molenbeek, Brussel.
-2ᴮᴼ – De Eekhoorn Wemmel.
-3,4,5,6,7ᴮᴼ – Levenslust Lennik.
+ - 1ᴮᴼ – Vier Winden Sint-Jans-Molenbeek, Brussel.
+ - 2ᴮᴼ – De Eekhoorn Wemmel.
+ - 3ᴮᴼ – Levenslust Lennik.
+ - 4ᴮᴼ – Levenslust Lennik.
+ - 5ᴮᴼ – Levenslust Lennik.
+ - 6ᴮᴼ – Levenslust Lennik.
+ - 7ᴮᴼ – Levenslust Lennik.
 
 # Don Bosco Technisch Instituut (SEP/1/2009 - AUG/1/2015)
 
