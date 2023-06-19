@@ -72,11 +72,11 @@
 
 - 1ᴮᴼ – Vier Winden - Sint-Jans-Molenbeek, Brussel.
 - 2ᴮᵘᴮᵃᵒ – De Eekhoorn - Wemmel.
-- 3ᴮᵘᴮᵃᵒ – Levenslust - Lennik.
-- 4ᴮᵘᴮᵃᵒ – Levenslust - Lennik.
-- 5ᴮᵘᴮᵃᵒ – Levenslust - Lennik.
-- 6ᴮᵘᴮᵃᵒ – Levenslust - Lennik.
-- 7ᴮᵘᴮᵃᵒ – Levenslust - Lennik.
+- 3ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
+- 4ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
+- 5ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
+- 6ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
+- 7ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
 
 # Don Bosco Technisch Instituut (SEP/1/2009 - AUG/1/2015)
 
