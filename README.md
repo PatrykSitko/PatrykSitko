@@ -71,7 +71,7 @@
 ## Basis Onderwijs
 
 - 1ᴮᴼ – Vier Winden - Sint-Jans-Molenbeek, Brussel.
-- 2ᴮᵘᴮᵃᵒ – De Eekhoorn - Wemmel.
+- 2ᴮᵘᴮᵃᵒ – De Eekhoorn + naaschoolse opvang - Wemmel.
 - 3ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
 - 4ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
 - 5ᴮᵘᴮᵃᵒ – Levenslust + Semi-Internaat - Lennik.
