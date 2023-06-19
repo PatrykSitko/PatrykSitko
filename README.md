@@ -99,7 +99,7 @@
 
 3D Game Environment Artist @ Syntra Limburg – Campus Hasselt (SEP/1/2015-AUG/1/2016)
 
-Hᴮᵘᴮᵃᵒ5 Java E.E. @ Intec Brussel (JAN/10/2016-AUG/1/2018)
+HBO5 Java E.E. @ Intec Brussel (JAN/10/2016-AUG/1/2018)
 
 Web Development – Front-End (HTML, CSS, JavaScript & React) @ Intec Brussel (JAN/10/2018-AUG/1/2019)
 
