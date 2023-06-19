@@ -70,13 +70,13 @@
 
 ## Basis Onderwijs
 
- - 1ᴮᴼ – Vier Winden - Sint-Jans-Molenbeek, Brussel.
- - 2ᴮᴼ – De Eekhoorn - Wemmel.
- - 3ᴮᴼ – Levenslust - Lennik.
- - 4ᴮᴼ – Levenslust - Lennik.
- - 5ᴮᴼ – Levenslust - Lennik.
- - 6ᴮᴼ – Levenslust - Lennik.
- - 7ᴮᴼ – Levenslust - Lennik.
+- 1ᴮᴼ – Vier Winden - Sint-Jans-Molenbeek, Brussel.
+- 2ᴮᴼ – De Eekhoorn - Wemmel.
+- 3ᴮᴼ – Levenslust - Lennik.
+- 4ᴮᴼ – Levenslust - Lennik.
+- 5ᴮᴼ – Levenslust - Lennik.
+- 6ᴮᴼ – Levenslust - Lennik.
+- 7ᴮᴼ – Levenslust - Lennik.
 
 # Don Bosco Technisch Instituut (SEP/1/2009 - AUG/1/2015)
 
@@ -108,14 +108,15 @@ Java I.O.T @ Intec Brussel (OKT/1/2020-FEB/20/2021 – I was actualy spending so
 2022 – future:
 
 Homelab, I have invested about €1k into electronical components ranging from:
- - components (capacitor, resistor, diode, dc motor, ...)
- - modules (fingerprint scanner, nfc, bt, ...)
- -  ic's
- -  microcontroller boards:
-     - ESP-32
-     - arduino
-     - STM-32
-     - RASPBERRY PI 
+
+- components (capacitor, resistor, diode, dc motor, ...)
+- modules (fingerprint scanner, nfc, bt, ...)
+- ic's
+- microcontroller boards:
+  - ESP-32
+  - arduino
+  - STM-32
+  - RASPBERRY PI
 
 and am in the progress of (re) setting up.
 
@@ -153,3 +154,5 @@ and am in the progress of (re) setting up.
 
 - Fly<img src="res\image\steering.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.5vmin;"/>:
   - <img src="res\image\say-no.png" style="width:2vmin; margin: 0 0.3vmin 0 0.3vmin; margin-bottom:-0.3vmin;"/>
+
+[Curriculum Vitae](res/pdf/PatrykSitko.resume.pdf).
