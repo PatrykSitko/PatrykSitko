@@ -24,6 +24,8 @@
       - Sata:
         - empty.
         - empty.
+        - empty.
+        - empty.
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) empty:
     - CPU – [Intel Xeon W-Series](https://ark.intel.com/content/www/us/en/ark/products/series/125035/intel-xeon-w-processor.html) (future).
