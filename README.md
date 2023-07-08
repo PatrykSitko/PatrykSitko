@@ -67,7 +67,7 @@
       - Android (insiders).
   - Android.
 
-## @Asus #ROG Strix X570 (AM4) 1200w
+## @Asus #ROG Strix X570 (AM4) 1200w [mainframe]
 
 ---
 
