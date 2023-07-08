@@ -14,9 +14,9 @@
 
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
-    - CPU – AMD, AM4 Ryzen 5 3600 6-Core.
-    - GPU – NVIDIA GDDR6, inno3D GTX 1630 4GB COMPACT.
-    - DRAM – (2×8) 16GB DDR4, 3200Mhz.
+    - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
+    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future)
+    - DRAM – (2×32) 64GB DDR4, 3200Mhz.
     - RAM:
       - NVMe 2.0:
         - Sabrent, 512GB.
@@ -27,11 +27,9 @@
         - empty.
         - empty.
     - PSU – Phanteks revolt x 1200W.
-  - (slot: EATX) empty:
-    - CPU – [Intel Xeon W-Series](https://ark.intel.com/content/www/us/en/ark/products/series/125035/intel-xeon-w-processor.html) (future).
-    - (recommandé: [ASUS – pro-ws-w790e-sage-se](https://www.asus.com/motherboards-components/motherboards/workstation/pro-ws-w790e-sage-se/))
-    - DRAM – [(8×512) 4TB DDR5](https://news.samsung.com/global/samsung-electronics-introduces-industrys-first-512gb-cxl-memory-module), 4800Mhz (future).
-    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future).
+  - (slot: EATX) ASUS Strix x570-F [PCIe4.0] LTS:
+    - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
+    - GPU – NVIDIA GDDR6, Asus RTX 4090 24GB.
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
   - Samsung Galaxy Z FLIP 4 – 256GB, WI-FI 6 + 5G.
