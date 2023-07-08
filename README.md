@@ -17,11 +17,12 @@
   - 10GBit Ethernet Coax [X750F <::> X570I] (Full Tower)
     - Ethernet: 1×10Gbit (port)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
-    - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future)
+    - PCIe[4.0]:
+        - (1×16) DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future)
     - DRAM – (2×32) 64GB DDR4, 3200Mhz.
     - RAM:
       - NVMe 2.0:
-        - Sabrent, 512GB.
+        - Sabrent, 512GB (System).
         - empty.
       - Sata:
         - empty.
@@ -34,8 +35,26 @@
   - 10GBit Ethernet Coax [X750I <::> X570F] (Full Tower)
     - Ethernet: 1×10Gbit + 1×2.5Gbit (ports)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
+    - PCIe[4.0]:
+        - (1×16) GPU – NVIDIA GDDR6, RTX A6000 48GB.
+        - (1×4) empty.
+        - (1×16) empty.
+        - (1×4) empty.
+        - (1×16) empty.
     - DRAM – (4×32) 128GB DDR4, 5200Mhz.
-    - GPU – NVIDIA GDDR6, RTX A6000 48GB.
+    - RAM:
+      - NVMe 2.0:
+        - Firecuda, 512GB (System)
+        - Firecuda, 2TB.
+      - Sata:
+        - empty.
+        - empty.
+        - empty.
+        - empty.
+        - empty.
+        - empty.
+        - empty.
+        - empty.
     - OS: Windows Client pro [11] - (graphical)
     - PSU – Phanteks revolt x 1200W.
 - Router (BT + WI-FI):
