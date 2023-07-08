@@ -86,6 +86,8 @@
       - [Debian](https://www.microsoft.com/store/productId/9MSVKQC78PK6) – [[<u>GUI APP SUPPORT</u>](https://learn.microsoft.com/en-us/windows/wsl/tutorials/gui-apps#install-support-for-linux-gui-apps)].
       - Android (insiders).
   - Android.
+-Nvidia DPU extentions:
+  - empty.
 
 ## @Asus #ROG Strix X570 Gaming (AM4) - 1200w [mainframe]
 
