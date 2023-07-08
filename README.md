@@ -14,7 +14,7 @@
 
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
-  - 10GBit Ethernet Coax [X750F <::> X570I] (Full Tower)
+  - 10GBit Ethernet Coax [X570F <::> X570I] (Full Tower)
     - Ethernet: 1×10Gbit (port)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - PCIe[4.0]:
@@ -32,7 +32,7 @@
     - OS: Windows Server [2022] - (headless)
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) ASUS Strix x570-F [PCIe4.0] LTS:
-  - 10GBit Ethernet Coax [X750I <::> X570F] (Full Tower)
+  - 10GBit Ethernet Coax [X570I <::> X570F] (Full Tower)
     - Ethernet: 1×10Gbit + 1×2.5Gbit (ports)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - PCIe[4.0]:
