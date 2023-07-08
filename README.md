@@ -67,6 +67,8 @@
       - Android (insiders).
   - Android.
 
+## @Asus #ROG Strix X570 (AM4) 1200w
+
 ---
 
   <img src="res\image\setup.jpg">
