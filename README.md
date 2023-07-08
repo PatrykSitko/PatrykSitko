@@ -12,6 +12,8 @@
 
 ## setup – Phanteks ENTHOO 719 (ITX + EATX), FULL-TOWER:
 
+10GBit Ethernet Coax
+
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
