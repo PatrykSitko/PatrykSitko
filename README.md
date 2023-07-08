@@ -15,6 +15,7 @@
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
   - 10GBit Ethernet Coax [X750F <::> X570I] (Full Tower)
+    - Ethernet: 1×10Gbit (port)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future)
     - DRAM – (2×32) 64GB DDR4, 3200Mhz.
@@ -31,6 +32,7 @@
     - PSU – Phanteks revolt x 1200W.
   - (slot: EATX) ASUS Strix x570-F [PCIe4.0] LTS:
   - 10GBit Ethernet Coax [X750I <::> X570F] (Full Tower)
+    - Ethernet: 1×10Gbit + 1×2.5Gbit (ports)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - GPU – NVIDIA GDDR6, Asus RTX 4090 24GB.
     - OS: Windows Client pro [11] - (graphical)
