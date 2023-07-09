@@ -89,7 +89,7 @@
 - Nvidia DPU extentions:
   - empty.
 
-## @Asus #ROG Strix X570 Gaming (AM4) - 1200w [mainframe]
+## @Asus #ROG Strix X570Fi Gaming (Asus Model 4) - 1200w [mainframe]
 
 ---
 
