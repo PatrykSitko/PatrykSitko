@@ -17,6 +17,7 @@
   - 10GBit Ethernet Coax [X570F <::> X570I] (Full Tower)
     - Ethernet: 1×10Gbit (port)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
+    - CPU COOLER – Jiushark JF13K Diamond Top-Down CPU Cooler, AMD 1700 PWM 4PIN, Seven Heatpipes Dual Fans
     - PCIe[4.0]:
         - (1×16) DPU – [NVIDIA BlueField](https://www.youtube.com/watch?v=Pb_a6oG_fqA) (future)
     - DRAM – (2×32) 64GB DDR4, 3200Mhz.
@@ -35,6 +36,7 @@
   - 10GBit Ethernet Coax [X570I <::> X570F] (Full Tower)
     - Ethernet: 1×10Gbit + 1×2.5Gbit (ports)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
+    - CPU COOLER – Jiushark JF13K Diamond Top-Down CPU Cooler, AMD 1700 PWM 4PIN, Seven Heatpipes Dual Fans
     - PCIe[4.0]:
         - (1×16) GPU – NVIDIA GDDR6, RTX A6000 48GB.
         - (1×4) empty.
