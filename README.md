@@ -101,6 +101,8 @@
   <img src="res\image\setup3.jpg">
   <img src="res\image\setup4.jpg">
   <img src="res\image\setup5.jpg">
+  <img src="res\image\setup6.jpg">
+  <img src="res\image\setup7.jpg">
 </p>
 
 ---
