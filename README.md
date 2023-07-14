@@ -94,6 +94,8 @@
 ---
 
   <img src="res\image\setup.jpg">
+  <img src="res\image\setup1.jpg">
+  <img src="res\image\setup2.jpg">
 </p>
 
 ---
