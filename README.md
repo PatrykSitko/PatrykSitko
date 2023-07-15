@@ -105,6 +105,8 @@
   <img src="res\image\setup7.jpg">
   <img src="res\image\setup8.jpg">
   <img src="res\image\setup9.jpg">
+
+  # Digital Oscilloscope (Hantek)
   <img src="res\image\setup10.jpg">
 </p>
 
