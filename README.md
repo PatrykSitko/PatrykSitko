@@ -158,6 +158,7 @@ Homelab, I have invested about €1k into electronical components ranging from:
   - arduino
   - STM-32
   - RASPBERRY PI
+  - SIM808
 
 and am in the progress of (re) setting up.
 
