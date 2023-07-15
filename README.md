@@ -112,7 +112,7 @@
 
 ---
 
-## Basis Onderwijs
+# Basis Onderwijs
 
 - 1ᴮᴼ – Vier Winden - Sint-Jans-Molenbeek, Brussel.
 - 2ᴮᵘᴮᵃᵒ – De Eekhoorn, Wemmel + Naschoolse Opvang. (Sofie 😉😏)
@@ -140,6 +140,8 @@
 - [BXL]5&6ᴮˢᵒ - lassen & constructies – autogeen, electrode, mig-mag en tig lassen.
 
 ---
+
+# Divers
 
 3D Game Environment Artist @ Syntra Limburg – Campus Hasselt (SEP/1/2015-AUG/1/2016)
 
