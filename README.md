@@ -23,7 +23,7 @@
     - DRAM – (2×32) 64GB DDR4, 3200Mhz.
     - RAM:
       - NVMe 2.0:
-        - Sabrent, 512GB (System).
+        - Sabrent, 512GB (System) + 1488GB VDRAM
         - empty.
       - Sata:
         - empty.
