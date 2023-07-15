@@ -14,7 +14,7 @@
 
 - BOARD:
   - (slot: ITX) ASUS Strix x570-I [PCIe4.0] LTS:
-  - 10GBit Ethernet Coax [X570F <::> X570I] (Full Tower)
+  - 10GBit Ethernet Coax [X570E <::> X570I] (Full Tower)
     - Ethernet: 1×10Gbit (port)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - CPU COOLER – Jiushark JF13K Diamond Top-Down CPU Cooler, AMD 1700 PWM 4PIN, Seven Heatpipes Dual Fans
@@ -32,8 +32,8 @@
         - empty.
     - OS: Windows Server [2022] - (headless)
     - PSU – Phanteks revolt x 1200W.
-  - (slot: EATX) ASUS Strix x570-F [PCIe4.0] LTS:
-  - 10GBit Ethernet Coax [X570I <::> X570F] (Full Tower)
+  - (slot: EATX) ASUS Strix x570-E [PCIe4.0] LTS:
+  - 10GBit Ethernet Coax [X570I <::> X570E] (Full Tower)
     - Ethernet: 1×10Gbit + 1×2.5Gbit (ports)
     - CPU – AMD Ryzen 9 5950X Processor (16C/32T, 72MB Cache, up to 4.9GHz Max Boost)
     - CPU COOLER – Jiushark JF13K Diamond Top-Down CPU Cooler, AMD 1700 PWM 4PIN, Seven Heatpipes Dual Fans
@@ -91,7 +91,7 @@
 - Nvidia DPU extentions:
   - empty.
 
-## @Asus #ROG Strix X570FI Gaming (Model 4) - 1200w [mainframe]
+## @Asus #ROG Strix X570EI Gaming (Model 4) - 1200w [mainframe]
 
 ---
 
