@@ -39,7 +39,7 @@
     - CPU COOLER – Jiushark JF13K Diamond Top-Down CPU Cooler, AMD 1700 PWM 4PIN, Seven Heatpipes Dual Fans
     - PCIe[4.0]:
         - (1×16) GPU – NVIDIA GDDR6, RTX A6000 48GB.
-        - (1×4) USB 2.0 × 4.
+        - (1×4) USB 2.0 × 4. (For hantek Oscilloscope – USB2.0 × 2)
         - (1×16) empty.
         - (1×4) SIM808 – I.o.T provider [Proximus].
         - (1×16) empty.
