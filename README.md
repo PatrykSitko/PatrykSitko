@@ -41,7 +41,7 @@
         - (1×16) GPU – NVIDIA GDDR6, RTX A6000 48GB.
         - (1×4) USB 2.0 × 4. (For hantek Oscilloscope – USB2.0 × 2)
         - (1×16) empty.
-        - (1×4) SIM808 – I.o.T—sim provider [Proximus].
+        - (1×4) SIM808 – I.o.T—sim provider [Proximus] LTE [5G]
         - (1×16) empty.
     - DRAM – (4×32) 128GB DDR4, 5200Mhz.
     - RAM:
